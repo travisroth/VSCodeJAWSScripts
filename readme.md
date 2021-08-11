@@ -2,6 +2,7 @@
 
 * Author: Travis Roth
 * JAWS compatibility: 2021
+* [Download current release][3] 
 * August 2021
 
 This package of JAWS scripts for [Visual Studio Code][1] (VSCode) enhances JAWS's support for working with VSCode. [JAWS][2] is a screen reader from Freedom Scientific and this documentation assumes the user knows how to use it. 
@@ -40,3 +41,4 @@ It is not possible to test on every possible configuration that may be out there
 
 [2]: https://www.freedomscientific.com
 
+[3]: https://github.com/travisroth/VSCodeJAWSScripts/releases/download/2021.8.0/VisualStudioCode.zip
