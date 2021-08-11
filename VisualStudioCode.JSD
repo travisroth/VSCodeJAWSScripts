@@ -1,0 +1,10 @@
+:script SayBottomLineOfWindow
+:SearchRank 1
+
+:script ShowJupyterCellOutput
+:SearchRank 1
+:Synopsis Shows the Jupyter cell output for selected cell when focus in the list of cells
+
+:script SayLine
+:SearchRank 1
+

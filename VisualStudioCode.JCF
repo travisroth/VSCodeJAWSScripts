@@ -1,0 +1,8 @@
+[options]
+Indentation=0
+MSAAMode=1
+[OSM]
+UseVirtualPCCursor=0
+[Braille]
+Grade2Translation=0
+ContractedBrailleInput=0
